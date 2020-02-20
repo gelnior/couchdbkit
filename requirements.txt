@@ -1,1 +1,1 @@
-restkit>=4.2.2
+git+https://github.com/gelnior/RestKit
